@@ -1,6 +1,6 @@
 ![MasterHead](https://www.lambdatest.com/resources/images/codingjag-issue-72-news.gif)
 <h1 align="center">Hi 👋, I'm Kaizar Akib Ayon</h1>
-<h3 align="center">A passionate SQA from Bangladesh</h3>
+<h2 align="center">A passionate SQA from Bangladesh</h2>
 <img align="right" alt="SQA" width="400" src="https://www.nizek.com/wp-content/uploads/2018/10/Testing.svg"></img>
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaijae_aki" target="blank"><img src="https://img.shields.io/twitter/follow/kaijae_aki?logo=twitter&style=for-the-badge" alt="kaijae_aki" /></a> </p>
 
-- 💬 Ask me about **Software Testing**
+- 💬 Ask me about **Software Testing** **Automation** **API Testing**
 
 - 📫 How to reach me **kizarakibayon@gmail.com**
 
