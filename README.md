@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaijae_aki" target="blank"><img src="https://img.shields.io/twitter/follow/kaijae_aki?logo=twitter&style=for-the-badge" alt="kaijae_aki" /></a> </p>
 
-- 💬 Ask me about **Software Testing**,**Automation**,**API Testing**
+- 💬 Ask me about **Manual Testing**,**Automation**,**API Testing**
 
 - 📫 How to reach me **kizarakibayon@gmail.com**
 
