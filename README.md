@@ -1,7 +1,7 @@
 ![MasterHead](https://www.lambdatest.com/resources/images/codingjag-issue-72-news.gif)
 <h1 align="center">Hi 👋, I'm Kaizar Akib Ayon</h1>
 <h3 align="center">A passionate SQA from Bangladesh</h3>
-<img align="right" alt="SQA" height='280' width="420" margin-top='10'src="https://imgs.search.brave.com/blnUiCEUe24xdZhLiPX51LAdoR-JGTC8VOX2n2Eff-k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzUxLzc5Lzk2/LzM2MF9GXzQ1MTc5/OTYyNV84RmQzVXNO/eG5INWtGWGNmWVJW/bFROeGx0M3lZY2Jj/ZS5qcGc"></img>
+<img align="right" alt="SQA" height='280' width="490" margin-top='10'src="https://imgs.search.brave.com/blnUiCEUe24xdZhLiPX51LAdoR-JGTC8VOX2n2Eff-k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzUxLzc5Lzk2/LzM2MF9GXzQ1MTc5/OTYyNV84RmQzVXNO/eG5INWtGWGNmWVJW/bFROeGx0M3lZY2Jj/ZS5qcGc"></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaijar2020&label=Profile%20views&color=0e75b6&style=flat" alt="kaijar2020" /> </p>
